@@ -1,0 +1,17 @@
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Nessa/TopDownShooter/obj/Debug/Assembly-CSharp.dll
+/Users/Nessa/TopDownShooter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/UnityEngine.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/UnityEditor.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Nessa/TopDownShooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
